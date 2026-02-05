@@ -6,7 +6,7 @@ Chatbot por línea de comandos (CLI) que mantiene contexto conversacional, anali
 
 ---
 
-## 🎯 Funcionalidad
+##  Funcionalidad
 
 - Chat conversacional con memoria
 - Análisis de imágenes vía OpenAI Vision
@@ -19,13 +19,13 @@ Chatbot por línea de comandos (CLI) que mantiene contexto conversacional, anali
 ##  Arquitectura
 ---
 src/
-├── main.py # 🎯 Punto de entrada
-├── chatbot.py # 🔄 Loop principal
-├── context_manager.py # 🧠 Gestión de contexto y tokens
-├── openai_service.py # 🤖 OpenAI Chat + Vision
-├── command_handler.py # ⌨️ Comandos CLI
-├── config.py # ⚙️ Configuración (.env)
-└── exceptions.py # 🛡️ Excepciones
+├── main.py #  Punto de entrada
+├── chatbot.py #  Loop principal
+├── context_manager.py #  Gestión de contexto y tokens
+├── openai_service.py #  OpenAI Chat + Vision
+├── command_handler.py #  Comandos CLI
+├── config.py #  Configuración (.env)
+└── exceptions.py #  Excepciones
 ---
 
 ##  Gestión de Contexto
