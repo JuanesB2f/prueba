@@ -109,9 +109,9 @@ El chatbot no se bloquea ante errores.
 ##  Tecnologías
 
 * Python 3.8+
-* OpenAI SDK
-* tiktoken
-* python-dotenv
+* OpenAI SDK para coneccion de la api de OpenAi
+* tiktoken cuenta tokens reales mas no palabras 
+* python-dotenv carga variables de entorno
 
 ---
 
@@ -120,5 +120,12 @@ El chatbot no se bloquea ante errores.
 * Las imágenes deben ser URLs directas (`.jpg`, `.png`, etc.)
 * Proyecto enfocado en arquitectura y manejo de contexto
 * Pensado para evaluación técnica senior
+
+## Herramientas usadas para el desarrollo
+
+* Documentacion ofical Api OpenAI
+* chatgpt para estructuracion 
+* perplexity para diagramas mermaid.live 
+* Agente VsCode para manejo de errores de paqueterias y versiones
 
 ```
